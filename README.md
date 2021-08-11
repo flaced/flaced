@@ -1,1 +1,2 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flaced&repo=simple-html-linktree)](https://github.com/flaced/simple-html-linktree)
+<img src="https://github-readme-stats.vercel.app/api?username=flaced&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flaced&theme=tokyonight">
