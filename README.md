@@ -1,2 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api?username=flaced&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flaced&theme=tokyonight">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=flaced&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
+Copy To Clipboard
