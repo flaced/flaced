@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=flaced&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
+[![Discord Presence](https://lanyard.cnrad.dev/api/338263164271591425)](https://discord.com/users/338263164271591425)
